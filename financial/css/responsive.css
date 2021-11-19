@@ -1,0 +1,666 @@
+
+/*992-1024*/
+
+@media only screen and (min-width: 992px) and (max-width: 1024px){
+
+
+    .contentbox h1{
+        padding-left: 10%;
+    }
+    p.secondp{
+        padding-left: 10%;
+    }
+    p.spanp{
+        padding-left: 10%;
+    }
+    .textbox h2{
+        font-size: 25px;
+
+    }
+    div#myonebtn {
+    left: 18%;
+}
+.mybuttonf {
+    position: relative;
+    left: 15%;
+}
+
+}
+
+/*768-991*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+
+    .contentbox h1{
+        padding-left: 8%;
+    }
+    p.secondp{
+        padding-left: 8%;
+    }
+    p.spanp{
+        padding-left: 8%;
+    }
+    .textbox h2{
+        font-size: 17px;
+    }
+    .col-xs-12.col-sm-7.borderdivcol {
+    width: 100%;
+    /* text-align: center; */
+}
+.col-xs-12.col-sm-5.blankdiv {
+    width: 100%;
+}
+
+.iconimgbox img {
+    width: 57%;
+    display: none;
+}
+
+.iconimgbox {
+    text-align: center;
+}
+
+.logobox img {
+    width: 100%;
+}
+.buttonbox {
+    left: 8%;
+}
+.contentbox{
+    margin-bottom: 40px;
+}
+
+/*3rd section start*/
+div#myonebtn {
+    left: 0%;
+}
+div#myonebtn span {
+    letter-spacing: 2px;
+    font-size: 14px;
+}
+h1.heading {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 37px;
+}
+p.primaryp {
+    font-size: 17px;
+    line-height: 30px;
+    padding-top: 23px;
+}
+
+
+
+/*3rd section end*/
+
+/*faq section start*/
+.accordion h3{
+    padding-left: 22px;
+    font-size: 20px;
+}
+.accordion .icon{
+    margin-right: 40px;
+    width: 23px;
+    height: 23px;
+    margin-top: 19px;
+}
+.panel p{
+    font-size: 17px;
+}
+.faqbox h2{
+    font-size: 39px;
+}
+div#faqbutton {
+    left: 0;
+}
+
+/*faq section end*/
+
+/*moneyservices section start*/
+
+p.moneysp {
+    font-size: 16px;
+    color: #333333;
+    padding: 0;
+    margin: 0;
+    padding-left: 91px;
+}
+
+/*moneyservices section end*/
+
+}
+
+/*576-767*/
+
+@media only screen and (min-width: 576px) and (max-width: 767px){
+
+
+    .contentbox h1{
+        padding-left: 6%;
+        font-size: 33px;
+    }
+    p.secondp{
+        padding-left: 6%;
+        font-size: 31px;
+    }
+    p.spanp{
+        padding-left: 6%;
+    }
+    .textbox h2{
+        font-size: 19px;
+        
+    }
+    .col-xs-12.col-sm-7.borderdivcol {
+    width: 100%;
+}
+.textbox {
+    display: none;
+}
+.buttonbox{
+    left: 6%;
+}
+.iconimgbox {
+    display: none;
+}
+
+/*3rd section start*/
+div#myonebtn {
+    left: 0;
+}
+div#myonebtn span {
+    letter-spacing: 2px;
+}
+h1.heading {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 37px;
+    text-align: center;
+}
+p.primaryp {
+    font-size: 17px;
+    line-height: 30px;
+    padding-top: 23px;
+    text-align: center;
+}
+.col-xs-12.col-sm-6.text_imgcol {
+    width: 100%;
+}
+.row.\33 rdrow {
+ 
+    display: block;
+}
+
+
+/*3rd section end*/
+
+/*faq section start*/
+.accordion h3{
+    padding-left: 22px;
+    font-size: 15px;
+
+}
+.accordion .icon{
+    margin-right: 24px;
+    width: 23px;
+    height: 23px;
+    margin-top: 15px;
+}
+.panel p{
+    font-size: 17px;
+}
+.faqbox h2{
+    font-size: 29px;
+}
+
+/*faq section end*/
+
+/*moneyservices section start*/
+
+p.moneysp {
+    font-size: 16px;
+    color: #333333;
+    padding: 0;
+    margin: 0;
+    padding-left: 91px;
+}
+
+/*moneyservices section end*/
+
+
+}
+
+
+/*480-575*/
+
+@media only screen and (min-width: 480px) and (max-width: 575px){
+
+
+    .contentbox h1{
+        padding-left: 6%;
+        font-size: 30px;
+    }
+    p.secondp{
+        padding-left: 6%;
+        font-size: 28px;
+    }
+    p.spanp{
+        padding-left: 5%;
+        font-size: 18px;
+    }
+    .textbox h2{
+        font-size: 19px;
+        
+    }
+    .col-xs-12.col-sm-7.borderdivcol {
+    width: 100%;
+}
+.textbox {
+    display: none;
+}
+.buttonbox{
+    left: 5%;
+}
+p.spanp span {
+    width: 36px;
+    height: 36px;
+    position: relative;
+    border-radius: 100px;
+    padding: 0px 10px;
+    margin-right: 10px;
+    color: white;
+    font-size: 22px;
+}
+.iconimgbox {
+    display: none;
+}
+.logobox img {
+    width: 50%;
+    padding-left: 10px;
+}
+
+/*3rd section start*/
+div#myonebtn {
+    left: 0;
+}
+div#myonebtn span {
+    letter-spacing: 2px;
+}
+h1.heading {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 37px;
+    text-align: center;
+}
+p.primaryp {
+    font-size: 17px;
+    line-height: 30px;
+    padding-top: 23px;
+    text-align: center;
+}
+.col-xs-12.col-sm-6.text_imgcol {
+    width: 100%;
+}
+.row.\33 rdrow {
+ 
+    display: block;
+}
+
+.imagebox img {
+    width: 100%;
+}
+
+/*3rd section end*/
+
+
+/*faq section start*/
+.accordion h3{
+    padding-left: 22px;
+    font-size: 13px;
+}
+.accordion .icon{
+    margin-right: 24px;
+    width: 23px;
+    height: 23px;
+    margin-top: 15px;
+}
+.panel p{
+    font-size: 17px;
+}
+.faqbox h2{
+    font-size: 29px;
+}
+
+/*faq section end*/
+
+/*moneyservices section start*/
+
+p.moneysp {
+    font-size: 16px;
+    color: #333333;
+    padding: 0;
+    margin: 0;
+    padding-left: 0px;
+    padding-top: 20px;
+}
+.moneysbox {
+    text-align: center;
+}
+
+/*moneyservices section end*/
+
+
+
+
+}
+
+
+/*375-479*/
+
+@media only screen and (min-width: 375px) and (max-width: 479px){
+
+
+    .contentbox h1{
+        font-size: 24px;
+        padding-left: 3%;
+    }
+    p.secondp{
+        font-size: 30px;
+        padding-left: 3%;
+    }
+    p.spanp{
+        font-size: 17px;
+        padding-left: 3%;
+    }
+    .textbox h2{
+        font-size: 19px;
+        
+    }
+    .col-xs-12.col-sm-7.borderdivcol {
+    width: 100%;
+}
+.textbox {
+    display: none;
+}
+.buttonbox{
+    left: 0%;
+}
+p.spanp span {
+    width: 36px;
+    height: 36px;
+    position: relative;
+    border-radius: 100px;
+    padding: 0px 9px;
+    margin-right: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.buttonbox span {
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.buttonbox {
+    top: 50%;
+    position: relative;
+    padding: 19px 16px;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    cursor: pointer;
+    transition: box-shadow 0.4s ease, background-color 0.4s ease, color 0.4s ease;
+    margin-top: 11px;
+}
+.logobox img {
+    width: 54%;
+    margin-left: 5%;
+}
+.iconimgbox img {
+    width: 100%;
+    display: none;
+}
+.mybuttonf {
+    padding-left: 5%;
+}
+
+/*3rd section start*/
+div#myonebtn {
+    left: 0;
+}
+div#myonebtn span {
+    letter-spacing: 2px;
+}
+h1.heading {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 37px;
+    text-align: center;
+}
+p.primaryp {
+    font-size: 17px;
+    line-height: 30px;
+    padding-top: 23px;
+    text-align: center;
+}
+.col-xs-12.col-sm-6.text_imgcol {
+    width: 100%;
+}
+.row.\33 rdrow {
+ 
+    display: block;
+}
+div#myonebtn span {
+    font-size: 15px;
+}
+
+.imagebox img {
+    width: 100%;
+}
+
+/*3rd section end*/
+
+/*faq section start*/
+.accordion h3{
+    padding-left: 16px;
+    font-size: 15px;
+}
+.accordion .icon{
+    margin-right: 24px;
+    width: 23px;
+    height: 23px;
+    margin-top: 25px;
+}
+.panel p{
+    font-size: 17px;
+}
+.faqbox h2{
+    font-size: 29px;
+}
+div#faqbutton {
+    left: 0;
+}
+
+/*faq section end*/
+
+/*moneyservices section start*/
+
+p.moneysp {
+    font-size: 16px;
+    color: #333333;
+    padding: 0;
+    margin: 0;
+    padding-left: 0px;
+    padding-top: 20px;
+}
+.moneysbox {
+    text-align: center;
+}
+
+/*moneyservices section end*/
+
+
+
+}
+
+/*320-374*/
+
+@media only screen and (min-width: 320px) and (max-width: 374px){
+
+
+    .contentbox h1{
+        padding-left: 3%;
+        font-size: 20px;
+    }
+    p.secondp{
+        padding-left: 3%;
+        font-size: 20px;
+    }
+    p.spanp{
+        padding-left: 3%;
+        font-size: 16px;
+        padding-bottom: 0;
+        margin-bottom: 11px;
+    }
+    .textbox h2{
+        font-size: 19px;
+        
+    }
+    .col-xs-12.col-sm-7.borderdivcol {
+    width: 100%;
+}
+.textbox {
+    display: none;
+}
+.buttonbox{
+    left: 48%;
+}
+p.spanp span {
+    width: 36px;
+    height: 36px;
+    position: relative;
+    border-radius: 100px;
+    padding: 0px 7px;
+    margin-right: 10px;
+    color: white;
+    font-size: 15px;
+}
+
+.buttonbox span {
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 0px 15px;
+}
+.buttonbox {
+    top: 50%;
+    left: 0;
+    position: relative;
+    padding: 17px 0px;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    cursor: pointer;
+    margin-top: 16px;
+    margin-left: 4%;
+}
+.iconimgbox img {
+    width: 100%;
+    display: none;
+}
+.logobox img {
+    width: 56%;
+}
+.contentbox {
+    
+    margin: 25px 0px;
+}
+
+/*3rd section start*/
+div#myonebtn {
+    left: 0;
+}
+div#myonebtn span {
+    letter-spacing: 2px;
+}
+h1.heading {
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 37px;
+    text-align: center;
+}
+p.primaryp {
+    font-size: 15px;
+    line-height: 30px;
+    padding-top: 23px;
+    text-align: center;
+}
+.col-xs-12.col-sm-6.text_imgcol {
+    width: 100%;
+}
+.row.\33 rdrow {
+ 
+    display: block;
+}
+
+div#myonebtn span {
+    font-size: 13px;
+    padding: 0;
+}
+.imagebox img {
+    width: 100%;
+}
+
+/*3rd section end*/
+/*faq section start*/
+.accordion h3{
+    padding-left: 13px;
+    font-size: 14px;
+}
+.accordion .icon{
+    margin-right: 19px;
+    width: 23px;
+    height: 23px;
+    margin-top: 25px;
+}
+.panel p{
+    font-size: 17px;
+}
+.faqbox h2{
+    font-size: 25px;
+}
+div#faqbutton {
+    left: 0;
+}
+
+/*faq section end*/
+
+/*moneyservices section start*/
+
+p.moneysp {
+    font-size: 16px;
+    color: #333333;
+    padding: 0;
+    margin: 0;
+    padding-left: 0px;
+    padding-top: 20px;
+}
+.moneysbox {
+    text-align: center;
+}
+
+/*moneyservices section end*/
+
+
+
+
+
+}

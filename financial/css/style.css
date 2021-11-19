@@ -1,0 +1,354 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: 'Heebo', sans-serif;
+}
+/*header area start*/
+.textbox h2 {
+    font-size: 28px;
+    font-weight: 700;
+    color: #333333;
+    text-align: right;
+    margin: 0;
+}
+
+.textbox h2 span {
+    color: #1e75bb;
+}
+
+.textbox p {
+    color: #27a8e0;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+}
+.row.headerrow {
+    align-items: center;
+    padding: 10px 0px;
+}
+.iconimgbox img {
+    width: 100%;
+}
+.mybuttonf {
+    position: relative;
+}
+
+
+/*header area end*/
+/*hero section start*/
+
+section.herosection {
+    background-image: url(../image/banner.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contentbox {
+    overflow: hidden;
+    margin: 53px 0px;
+}
+.contentbox h1 {
+    color: #1e75bc;
+    font-size: 42px;
+    font-weight: bold;
+    padding-left: 2%;
+    margin-top: 30px;
+}
+p.secondp {
+    color: #000000;
+    font-size: 35px;
+    padding-left: 2%;
+}
+p.spanp {
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+    padding-left: 2%;
+}
+
+p.spanp span {
+    width: 36px;
+    height: 36px;
+    background: #1e75bc;
+    position: relative;
+    border: 2px solid #27a8e1;
+    border-radius: 100px;
+    padding: 0px 11px;
+    margin-right: 10px;
+    color: white;
+    font-size: 25px;
+}
+/*animated button*/
+
+
+
+.buttonbox {
+  top: 29%;
+  left: 2%;
+  position: relative;
+  padding: 19px 39px;
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  overflow: hidden;
+  cursor: pointer;
+  font: 16px/24px Arial, sans-serif;
+  background-color: #27a8e1;
+  transition: 
+    box-shadow 0.4s ease, 
+    background-color 0.4s ease, 
+    color 0.4s ease;
+  box-shadow: 0 0 2px 0 rgb(254 181 89), 0 0 4px 0 rgb(40 166 224), 0 0 6px 0 rgb(30 117 188), 0 0 8px 0 rgb(39 168 225), 0 0 12px 0 rgb(39 168 225), 0 0 18px 0 rgb(38 167 224);
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.buttonbox:hover{
+  background-color: #1e75bc;
+  box-shadow: 0 0 2px 0 rgb(39 168 225), 0 0 4px 0 rgb(38 163 217), 0 0 6px 0 rgb(39 168 225), 0 0 8px 0 rgb(30 117 188), 0 0 12px 0 rgb(39 168 225), 0 0 18px 0 rgb(39 168 225), 0 0 4px 0 rgb(39 168 225);
+}
+
+.buttonbox span {
+  position: relative;
+  z-index: 1;
+  color: #fff;
+  letter-spacing: 4px;
+  font-weight: bold;
+}
+
+.buttonbox i {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  height: 200px;
+  background-color: inherit;
+  box-shadow: inset 0 0 50px rgb(30 117 188);
+  transition: 
+    transform 0.4s linear, 
+    top 1s linear;
+  overflow: hidden;
+}
+
+.buttonbox i:before,
+.buttonbox i:after {
+  content: "";
+  position: absolute;
+  width: 200%;
+  height: 200%;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -75%);
+}
+.buttonbox i:before {
+  border-radius: 46%;
+  background-color: rgba(20, 20, 20, 0.2);
+  animation: animate 5s linear infinite;
+}
+.buttonbox i:after {
+  border-radius: 40%;
+  background-color: rgba(20, 20, 20, 0.5);
+  animation: animate 10s linear infinite;
+}
+
+@keyframes animate {
+  0% {
+    transform: 
+      translate(-50%, -75%) 
+      rotate(0deg);
+  }
+  100% {
+    transform: 
+      translate(-50%, -75%) 
+      rotate(360deg);
+  }
+}
+
+
+/*animated button end*/
+.formdiv {
+    padding-top: 52px;
+    background: #f5f5f573;
+}
+
+/*hero section end*/
+
+/*3rd section start*/
+h1.heading {
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 44px;
+}
+
+p.primaryp {
+    font-size: 18px;
+    line-height: 32px;
+    padding-top: 23px;
+}
+div#myonebtn {
+    left: 0%;
+    padding: 18px 21px;
+}
+.imagebox img {
+    width: 65%;
+}
+.row.\33 rdrow {
+    align-items: center;
+    padding-top: 75px;
+    padding-bottom: 50px;
+}
+
+section.\33 rdsection {
+    background: whitesmoke;
+}
+div#myonebtn span {
+    letter-spacing: 3px;
+}
+
+.divtextbox {
+    text-align: center;
+}
+
+.imagebox {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+/*3rd section end*/
+
+/*accordion section start*/
+
+.faqbox h2 {
+    text-align: center;
+    font-size: 39px;
+    font-weight: bold;
+    color: #02083a;
+    padding-bottom: 35px;
+}
+
+section.faq {
+    background: #000000;
+    padding-bottom: 50px;
+    border-bottom: 8px solid #222;
+}
+.accordion h3 {
+    background: #27a8e1;
+    color: white;
+    padding: 18px 25px;
+    width: 94%;
+    margin: auto;
+    padding-left: 30px;
+    box-shadow: 0px 0px 15px 0px rgb(0 0 0 / 40%) !important;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 24px;
+}
+.accordion .icon {
+    width: 30px;
+    margin-right: 3.75em;
+    background-image: url(../image/icon1.png);
+    background-repeat: no-repeat;
+    height: 30px;
+    background-size: cover;
+    float: right;
+    margin-top: 19px;
+    cursor: pointer;
+}
+.panel p {
+    width: 100%;
+    margin: auto;
+    font-size: 20px;
+    color: #333333;
+    font-weight: 400;
+    padding: 25px 30px;
+    line-height: 36px;
+}
+.panel {
+    width: 94%;
+    margin: auto;
+    background: #30303000;
+    border-top: none;
+    overflow: hidden;
+    max-height: 0;
+    transition: all 0.3s ease-in;
+    box-shadow: 0 1px 5px rgb(0 0 0 / 15%);
+}
+.active .icon {
+    background-image: url(../image/icon2.png);
+}
+.faqdiv {
+    margin-bottom: 25px;
+}
+.faqbox {
+    padding-bottom: 35px;
+    padding-top: 55px;
+}
+.tittlep p {
+    font-size: 19px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+}
+.accordion h3:hover {
+    background: #1e75bc;
+    transition: all 0.4s ease;
+}
+div#faqbutton {left: 0;}
+section.faqsec {
+    box-shadow: 0 0 10px rgb(0 0 0 / 50%);
+}
+
+.faqbutton {
+    padding-top: 20px;
+    text-align: center;
+}
+
+
+
+/*accordion section end*/
+
+/*moneyservices section start*/
+
+.row.moneyservicerow {
+    align-items: center;
+    padding: 40px 0px;
+}
+
+p.moneysp {
+    font-size: 18px;
+    color: #333333;
+    padding: 0;
+    margin: 0;
+    padding-left: 46px;
+}
+
+
+/*money services section end*/
+
+/*footer start*/
+footer.footers {
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    padding: 60px 0px;
+}
+.adiv a {
+    padding-left: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+a.firsta {
+    border-left: 2px solid;
+}
+
+/*footer end*/
